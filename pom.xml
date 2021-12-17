@@ -49,7 +49,7 @@
 
 		<version.slf4j>1.6.1</version.slf4j>
 
-		<jersey.version>2.11</jersey.version>
+		<jersey.version>2.35</jersey.version>
 		<jersey-apache-client4.version>1.9</jersey-apache-client4.version>
 
 		<jackson-jaxrs.version>2.3.3</jackson-jaxrs.version>
